@@ -1,0 +1,5 @@
+name: SimplePerWorldTablist
+version: ${project.version}
+main: me.hsgamer.simpleperworldtablist.SimplePerWorldTablist
+api-version: 1.16
+authors: [ HSGamer ]
